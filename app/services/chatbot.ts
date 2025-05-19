@@ -3,7 +3,7 @@
 
 import { products } from '../data/products';
 
-// Sample knowledge base for common questions
+
 const knowledgeBase = {
   shipping: `Informações sobre Frete e Entrega:
 
