@@ -2,6 +2,9 @@
 
 Uma aplicação moderna de chat construída com Remix, React e TypeScript.
 
+## 🌐 Demo
+Aplicação: [https://chat-bot-chi-coral.vercel.app/](https://chat-bot-chi-coral.vercel.app/)
+
 ## 🚀 Tecnologias
 
 - [Remix](https://remix.run/) - Framework web full-stack
