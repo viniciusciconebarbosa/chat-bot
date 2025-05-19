@@ -20,7 +20,7 @@ Uma aplicação moderna de chat construída com Remix, React e TypeScript.
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/viniciusciconebarbosa/chat-bot
 ```
 
 2. Instale as dependências:
