@@ -23,7 +23,7 @@ Aplicação: [https://chat-bot-chi-coral.vercel.app/](https://chat-bot-chi-coral
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/viniciusciconebarbosa/chat-bot
 ```
 
 2. Instale as dependências:
