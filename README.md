@@ -1,23 +1,34 @@
-# Chat Bot
+# 💬 Chat Bot
 
-Uma aplicação moderna de chat construída com Remix, React e TypeScript.
+🖥️ [Aplicação Frontend](https://chat-bot-chi-coral.vercel.app/)
 
-## 🌐 Demo
-Aplicação: [https://chat-bot-chi-coral.vercel.app/](https://chat-bot-chi-coral.vercel.app/)
+## Descrição do Projeto
 
-## 🚀 Tecnologias
+Uma aplicação moderna de chat desenvolvida com Remix, React e TypeScript, oferecendo uma interface intuitiva e interativa para comunicação em tempo real.
 
-- [Remix](https://remix.run/) - Framework web full-stack
-- [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces
-- [TypeScript](https://www.typescriptlang.org/) - Superset JavaScript com tipagem estática
-- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utilitário
-- [Framer Motion](https://www.framer.com/motion/) - Biblioteca para animações
-- [Vite](https://vitejs.dev/) - Build tool e servidor de desenvolvimento
+### Funcionalidades Principais
 
-## 📋 Pré-requisitos
+- **Interface Responsiva**: Design moderno e adaptável para diferentes dispositivos
+- **Animações Suaves**: Transições e interações fluidas com Framer Motion
+- **Estilização Personalizada**: Interface elegante construída com Tailwind CSS
+- **Tipagem Forte**: Desenvolvimento robusto utilizando TypeScript
+- **Escalabilidade**: Arquitetura de projeto organizada e extensível
 
-- Node.js >= 20.0.0
-- npm ou yarn
+### Tecnologias Utilizadas
+
+- **Frontend**: Remix
+- **Linguagem**: TypeScript
+- **Biblioteca UI**: React
+- **Estilização**: Tailwind CSS
+- **Animações**: Framer Motion
+- **Build Tool**: Vite
+- **Deploy**: Vercel
+
+### 🛠️ Pré-requisitos
+
+- Node.js (v20+)
+- npm (v10+)
+- Remix CLI
 
 ## 🔧 Instalação
 
@@ -62,14 +73,6 @@ yarn dev
 ├── public/           # Arquivos estáticos
 └── ...
 ```
-
-## 🎨 Funcionalidades
-
-- Interface moderna e responsiva
-- Animações suaves com Framer Motion
-- Estilização com Tailwind CSS
-- Tipagem forte com TypeScript
-- Estrutura organizada e escalável
 
 ## 🤝 Contribuindo
 
